@@ -1,5 +1,5 @@
 # KiteTrading
- Trading with Kite - Zerodha
+ Trading with Kite - Zerodha (Indian Stock Broker)
  
  - Connect to the API
  - Get universe of instruments to trade
